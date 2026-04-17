@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Simulation analysis of the ecological performance of artificial reefs using species distribution models",
+    "authors": "Yu, H., Rose, K. A., Fang, G., Tang, Y., Becker, A., Feng, J., & Zhang, T.",
+    "venue": "Frontiers in Ecology and Evolution, 2026",
+    "paper_url": "https://doi.org/10.3389/fevo.2026.1684304",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Evaluating bio-carbon sequestration in Beibu Gulf marine ranching areas via EwE modelling and LMDI analysis",
+    "authors": "Guo, W., Feng, J., Wang, H., Zhang, Z., Liang, S., Zhang, T., & Yu, H.",
+    "venue": "Estuarine Coastal and Shelf Science, 2026",
+    "paper_url": "https://doi.org/10.1016/j.ecss.2025.109625",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Modeling Dominant Macrobenthic Species Distribution and Predicting Potential Habitats in the Yellow River Estuary, China",
+    "authors": "Yuan, C., Huang, J., Wang, L., Zhang, T., Yu, H., Sun, H., Liu, Y., Sun, S., Sun, J., Shang, Y., Feng, J., & Xu, J.",
+    "venue": "Biology",
+    "paper_url": "https://doi.org/10.3390/biology14121732",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "The BiogeochemicAl Model for Hypoxic and Benthic Influenced areas: BAMHBI v1.0",
+    "authors": "Marilaure Grégoire, Luc Vandenbulcke, Séverine Chevalier, Mathurin Choblet, Ilya Drozd, Jean-François Grailet, Evgeny Ivanov, Loïc Macé, Polina Verezemskaya, Haolin Yu, Lauranne Alaerts, Ny Riana Randresihaja, Victor Mangeleer, Guillaume Maertens de Noordhout, Arthur Capet, Catherine Meulders, Anne Mouchet, Guy Munhoven & Karline Soetaert",
+    "venue": "Geoscientific Model Development, 2026",
+    "paper_url": "https://doi.org/10.5194/gmd-19-2137-2026",
+    "github_url": "",
+    "gitlab_url": "https://gitlab.uliege.be/especes/mast/bamhbi-stable"
+  },
+  {
+    "title": "Evaluating Ecosystem Characteristics and Ecological Carrying Capacity for Marine Fauna Stock Enhancement Within a Marine Ranching System",
+    "authors": "Feng, J., Yu, H., Wu, L., Yuan, C., Zhao, X., Sun, H., Cheng, C., Li, Y., Sun, J., Li, Y., Wang, X., Shang, Y., Xu, J., & Zhang, T.",
+    "venue": "Animals",
+    "paper_url": "https://doi.org/10.3390/ani15020165",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Ecological characteristics and carrying capacity analysis of marine ranching ecosystem in Beibu Gulf based on Ecopath model",
+    "authors": "Cheng, C., Yu, H., Feng, J., Li, Y., Cao, Q., Liu, L., Yang, C., Zhao, S., Li, S., Zhang, Z., Wang, H., & Zhang, T.",
+    "venue": "Journal of Oceanology and Limnology",
+    "paper_url": "https://doi.org/10.1007/s00343-025-4285-z",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Taxonomic and functional diversities reveal different fish assemblage dynamics of stow net fishery in Haizhou Bay",
+    "authors": "Fang, G., Zhang, Y., Yu, H., Chen, C., Liang, J., & Tang, Y.",
+    "venue": "Heliyon",
+    "paper_url": "https://doi.org/10.1016/j.heliyon.2024.e39428",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Evaluation of the Residency of Black Rockfish (Sebastes schlegelii) in Artificial Reef Areas Based on Stable Carbon Isotopes",
+    "authors": "Yu, H., Feng, J., Zhao, W., Zhang, T., Wang, H., Ji, Y., Tang, Y., & Sun, L.",
+    "venue": "Sustainability",
+    "paper_url": "https://doi.org/10.3390/su16052115",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Geographical distribution and ecological niche dynamics of Crassostrea sikamea in China's coastal regions under climate change",
+    "authors": "Liu, B., Liu, Z., Li, C., Yu, H., & Wang, H.",
+    "venue": "Science of the Total Environment",
+    "paper_url": "https://doi.org/10.1016/j.scitotenv.2024.171061",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Potential distribution of Crassostrea sikamea along coastal China under global climate change",
+    "authors": "Liu, B., Liu, Z., Chen, Y., Lu, R., Li, C., Ma, P., Yu, H., Zhang, Z., & Wang, H.",
+    "venue": "Global Ecology and Conservation",
+    "paper_url": "https://doi.org/10.1016/j.gecco.2024.e02843",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Diversities and Shifts of Microbial Communities Associated with Farmed Oysters (Crassostrea gigas) and Their Surrounding Environments in Laoshan Bay, China",
+    "authors": "Fang, G., Yu, H., Zhang, Y., Liang, J., Tang, Y., & Liang, Z.",
+    "venue": "Microorganisms",
+    "paper_url": "https://doi.org/10.3390/microorganisms11051167",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Ecological carrying capacity and carbon sequestration potential of bivalve shellfish in marine ranching: A case study in Bohai Bay, China",
+    "authors": "Li, Z., Chen, Y., Wang, G., Mu, J., Sun, Y., Yu, H., Xu, J., Yan, Y., Luo, S., Han, F., Feng, J., & Pan, Z.",
+    "venue": "Frontiers in Marine Science",
+    "paper_url": "https://doi.org/10.3389/fmars.2023.1174235",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Effects of habitat usage on hypoxia avoidance behavior and exposure in reef-dependent marine coastal species",
+    "authors": "Yu, H., Fang, G., Rose, K. A., Lin, J., Feng, J., Wang, H., Cao, Q., Tang, Y., & Zhang, T.",
+    "venue": "Frontiers in Marine Science",
+    "paper_url": "https://doi.org/10.3389/fmars.2023.1109523",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Comparison of 16S rRNA Gene Primers on Studying Microbial Community Composition in Bottom Water and Sediment of Artificial Reefs in Laoshan Bay, China",
+    "authors": "Fang, G., Yu, H., Sheng, H., Tang, Y., & Liang, Z.",
+    "venue": "Journal of Ocean University of China",
+    "paper_url": "https://doi.org/10.1007/s11802-022-4966-6",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Impact of summer moratorium on set-net fishery in Haizhou Bay, China",
+    "authors": "Fang, G., Yu, H., Wang, X., Sheng, H., Tang, Y., Liu, C., Chen, C., & Liang, Z.",
+    "venue": "Journal of Oceanology and Limnology",
+    "paper_url": "https://doi.org/10.1007/s00343-021-0479-1",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Examining Epibenthic Assemblages Associated with Artificial Reefs Using a Species Archetype Approach",
+    "authors": "Yu, H., Fang, G., Rose, K. A., Tang, Y., & Song, X.",
+    "venue": "Marine and Coastal Fisheries, 2022",
+    "paper_url": "https://doi.org/10.1002/mcf2.10206",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Seasonal variations and co-occurrence networks of bacterial communities in the water and sediment of artificial habitat in Laoshan Bay, China",
+    "authors": "Fang, G., Yu, H., Sheng, H., Chen, C., Tang, Y., & Liang, Z.",
+    "venue": "PeerJ, 2022",
+    "paper_url": "https://doi.org/10.7717/peerj.12705",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Comparative analysis of microbial communities between water and sediment in Laoshan Bay marine ranching with varied aquaculture activities",
+    "authors": "Fang, G., Yu, H., Sheng, H., Tang, Y., & Liang, Z.",
+    "venue": "Marine Pollution Bulletin",
+    "paper_url": "https://doi.org/10.1016/j.marpolbul.2021.112990",
+    "github_url": "",
+    "gitlab_url": ""
+  },
+  {
+    "title": "Relationships Between Community Structure and Environmental Factors in Xixiakou Artificial Reef Area",
+    "authors": "Yu, H., Yang, W., Liu, C., Tang, Y., Song, X., & Fang, G.",
+    "venue": "Journal of Ocean University of China",
+    "paper_url": "https://doi.org/10.1007/s11802-020-4298-3",
+    "github_url": "",
+    "gitlab_url": ""
+  }
+]
